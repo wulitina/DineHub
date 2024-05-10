@@ -45,6 +45,37 @@ Start all other microservices.
 Access the application through the provided login interface.
 Ordinary users can register and place orders.
 Administrators can manage users, orders, and menus.
+
+
+
+## Key Page Screenshot
+
+![1](/Users/tina/IdeaProjects/DineHub/readmePictures/1.png)
+
+![2](/Users/tina/IdeaProjects/DineHub/readmePictures/2.png)
+
+![3](/Users/tina/IdeaProjects/DineHub/readmePictures/3.png)
+
+![4](/Users/tina/IdeaProjects/DineHub/readmePictures/4.png)
+
+![5](/Users/tina/IdeaProjects/DineHub/readmePictures/5.png)
+
+![6](/Users/tina/IdeaProjects/DineHub/readmePictures/6.png)
+
+![7](/Users/tina/IdeaProjects/DineHub/readmePictures/7.png)
+
+![8](/Users/tina/IdeaProjects/DineHub/readmePictures/8.png)
+
+![9](/Users/tina/IdeaProjects/DineHub/readmePictures/9.png)
+
+![10](/Users/tina/IdeaProjects/DineHub/readmePictures/10.png)
+
+![11](/Users/tina/IdeaProjects/DineHub/readmePictures/11.png)
+
+![12](/Users/tina/IdeaProjects/DineHub/readmePictures/12.png)
+
+
+
 ## Contributors
 YanXu (Tina)
 
