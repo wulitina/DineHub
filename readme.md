@@ -29,7 +29,7 @@ Manage order statuses (e.g., mark orders as completed).
 Add, edit, or delete menu items.
 ## Getting Started
 ### Clone the Repository:
-git clone xx
+git clone https://github.com/wulitina/DineHub.git
 ### Set up Configuration:
 Update configuration files in the Config Server according to your environment.
 ### Build and Run Microservices:
@@ -84,7 +84,7 @@ t_user： 存储用户信息。
 ### 克隆仓库：
 bash
 复制代码
-git clone xxx
+git clone https://github.com/wulitina/DineHub.git
 ### 设置配置：
 根据您的环境更新配置服务器中的配置文件。
 ### 构建和运行微服务：
