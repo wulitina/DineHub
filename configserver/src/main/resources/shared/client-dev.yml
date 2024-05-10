@@ -1,0 +1,14 @@
+server:
+  port: 8013
+spring:
+  application:
+    name: client
+  thymeleaf:
+    prefix: classpath:/static/ #放在static好处是作为客户端扫描路径，客户端可以直接访问，client不处理跟数据库交互的数据，只从服务提供者获取数据
+    suffix: .html
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
